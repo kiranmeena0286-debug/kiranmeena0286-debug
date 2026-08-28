@@ -19,6 +19,10 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td width="60%">
+
 ### 🚀 About Me
 
 I am a **Machine Learning Engineer & Data Scientist** bridging the gap between cutting-edge domain science and scalable software engineering. I don't just train models in Jupyter Notebooks—I architect full-stack predictive pipelines, containerize them with Docker, and deploy them to the cloud for real-time inference.
@@ -27,6 +31,18 @@ I am a **Machine Learning Engineer & Data Scientist** bridging the gap between c
 - 🎓 **Education:** B.Tech in Metallurgical & Materials Engineering @ NIT Warangal
 - 💡 **Specialties:** NLP (Transformers, HuggingFace), Generative AI (RAG, LangChain), Computer Vision, MLOps (FastAPI, Docker, AWS).
 - 🌱 **Open Source:** Contributor to **Scikit-Learn** (Optimizing sparse matrix multiplication).
+
+</td>
+<td width="40%" align="center">
+
+### 🧠 Mindset
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,6 +71,21 @@ I am a **Machine Learning Engineer & Data Scientist** bridging the gap between c
 
 ---
 
+### 📈 Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranmeena0286-debug&bg_color=1a1b27&color=38BDF8&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranmeena0286-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmeena0286-debug&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%" alt="Streak" />
+</div>
+
+---
+
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kiranmeena0286-debug&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" alt="Kiran Meena Trophies" />
@@ -73,11 +104,6 @@ I am a **Machine Learning Engineer & Data Scientist** bridging the gap between c
 | 🧠 [**`sentiscope`**](https://github.com/kiranmeena0286-debug/sentiscope) | Multi-domain NLP sentiment analysis pipeline comparing TF-IDF with a Bidirectional LSTM. | `TensorFlow/Keras` `NLP` `BiLSTM` |
 | 📈 [**`stockpulse`**](https://github.com/kiranmeena0286-debug/stockpulse) | Financial time-series forecasting system comparing ARIMA, Prophet, and PyTorch LSTMs. | `PyTorch` `Prophet` `Streamlit` |
 
----
-
-### 📊 GitHub Stats & Streaks
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranmeena0286-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmeena0286-debug&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmeena0286-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=38BDF8" width="50%" alt="Languages" />
 </div>
