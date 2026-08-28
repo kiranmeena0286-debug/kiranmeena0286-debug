@@ -10,6 +10,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kiranmeena0286-debug)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiran.meena.ds@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=kiranmeena0286-debug&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -20,6 +22,13 @@
 - 🔬 **Research Intern at MNIT Jaipur** — Applied ML to materials science: predicting wear resistance of MoS2 coatings
 - 🧠 Passionate about bridging **domain science + machine learning** to solve real-world engineering and business problems
 - 📊 I don't just train models — I build **reproducible, containerized, deployable ML pipelines** with proper testing and CI/CD
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiranmeena0286-debug&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" alt="Kiran Meena Trophies" />
+</div>
 
 ---
 
@@ -50,12 +59,12 @@
 
 ### 📌 Featured Projects
 
-| Repository | What It Does | Core Tech | Demo |
-| :--- | :--- | :--- | :--- |
-| [**`matpredict`**](https://github.com/kiranmeena0286-debug/matpredict) | ML-driven materials property prediction from MNIT Jaipur research — predicts wear rate & hardness from coating parameters | `Scikit-Learn` `XGBoost` `Optuna` | [📊 App](https://matpredict.streamlit.app) |
-| [**`churnguard`**](https://github.com/kiranmeena0286-debug/churnguard) | End-to-end customer churn prediction — SQL extraction, feature engineering, XGBoost, FastAPI serving, Streamlit dashboard | `XGBoost` `SQL` `FastAPI` `Docker` | [🌐 Live](https://churnguard-demo.streamlit.app) |
-| [**`sentiscope`**](https://github.com/kiranmeena0286-debug/sentiscope) | Multi-class NLP sentiment analysis — TF-IDF + BiLSTM hybrid with containerized inference API | `TensorFlow` `NLTK` `FastAPI` `Docker` | — |
-| [**`stockpulse`**](https://github.com/kiranmeena0286-debug/stockpulse) | Multi-model financial time-series forecasting — ARIMA vs Prophet vs LSTM comparison dashboard | `PyTorch` `Prophet` `Plotly` `Streamlit` | [📈 Live](https://stockpulse.streamlit.app) |
+| Repository | What It Does | Core Tech |
+| :--- | :--- | :--- |
+| [**`matpredict`**](https://github.com/kiranmeena0286-debug/matpredict) | ML-driven materials property prediction from MNIT Jaipur research — predicts wear rate & hardness from coating parameters | `Scikit-Learn` `XGBoost` `Optuna` |
+| [**`churnguard`**](https://github.com/kiranmeena0286-debug/churnguard) | End-to-end customer churn prediction — SQL extraction, feature engineering, XGBoost, FastAPI serving, Streamlit dashboard | `XGBoost` `SQL` `FastAPI` `Docker` |
+| [**`sentiscope`**](https://github.com/kiranmeena0286-debug/sentiscope) | Multi-class NLP sentiment analysis — TF-IDF + BiLSTM hybrid with containerized inference API | `TensorFlow` `NLTK` `FastAPI` `Docker` |
+| [**`stockpulse`**](https://github.com/kiranmeena0286-debug/stockpulse) | Multi-model financial time-series forecasting — ARIMA vs Prophet vs LSTM comparison dashboard | `PyTorch` `Prophet` `Plotly` `Streamlit` |
 
 ---
 
@@ -69,3 +78,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmeena0286-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Languages" />
 </div>
+
